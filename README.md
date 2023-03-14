@@ -19,3 +19,7 @@ CRUD app - Employee Management (Mean)
  - cd frontend
  - npm install
  - ng serve
+
+
+https://user-images.githubusercontent.com/75486325/225015768-b3a8d28c-4bb5-4fce-bef7-310af3c5751e.mp4
+
